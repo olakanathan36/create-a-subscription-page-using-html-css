@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.inputes{
+    text-align: center;
+}
+.one{
+    width: 50%;
+    height: 30px;
+}
+.check{
+    margin-right: 20%;
+}
+.checkbox{
+    display: flex;
+    justify-content: center;
+    margin-right: 0;
+}
+.inputes{
+   
+    background-color: 597445;
+}
+.content{
+   
+
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    padding:10px ;
+}
+p{
+    margin-right: 100px;
+}
+.two{
+    background-color: aquamarine;
+}
+.main1{
+    text-align: justify;
+    border: 2px solid;
+    margin: 70px;
+    background-color: rgb(228, 234, 228);
+}
+.main1 p{
+    text-align: justify;
+    justify-content: center;
+    margin: 20px;
+    
+}
